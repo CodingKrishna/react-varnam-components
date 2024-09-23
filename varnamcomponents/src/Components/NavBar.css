@@ -1,0 +1,43 @@
+/*------------------ NavBars--------------*/
+.nav-sec{
+    height: 500px;
+    width: 1250px;
+}
+.ver-nav{
+    list-style: none;
+    width: 16%;
+    height: 150px;
+    text-align: center;
+    background: black;
+    padding: 0px;
+}
+.ver-nav li a{
+    text-decoration: none;
+    color: gold;
+}
+.ver-nav li{
+    padding-top: 11px;
+    border-bottom: 1px solid white;
+}
+.ver-nav li:hover{
+    background: gray;
+    }
+.har-nav{
+    width: 48%;
+    /* height: 45px; */
+    padding: 0;
+    background: darkcyan
+}
+.har-nav li{
+    display: inline;
+    padding-left: 30px;
+    padding-right: 15px;
+    text-align: center;
+    /* padding-top: 27px; */
+    line-height: 43px;
+    border-right: 1px solid;
+}
+.har-nav li a{
+    text-decoration: none;
+    color: white;
+}

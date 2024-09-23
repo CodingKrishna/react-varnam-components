@@ -1,0 +1,147 @@
+/*......................................Badges style............................*/
+
+
+#badg1{
+    width: 25px;
+    height: 25px;
+    background: red;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+#one1{
+    padding-left: 8px;
+    padding-top: 4px;
+    color: white;
+    font-weight: bold;
+}
+ #badg2{
+    width: 35px;
+    height: 35px;
+    background: green;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+#two2{
+    padding-left: 13px;
+    padding-top: 8px;
+    color: white;
+    font-weight: bold;
+}
+#badg3{
+    width: 45px;
+    height: 45px;
+    background: blue;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+}
+#three3{
+    padding-left: 18px;
+    padding-top: 13px;
+    color: white;
+    font-weight: bold;
+}
+#badg4{
+    width: 60px;
+    height: 60px;
+    background: black;
+    border-radius: 50%;
+}
+#four4{
+    padding-left: 26px;
+    padding-top: 21px;
+    color: white;
+    font-weight: bold;
+}
+#btn1{
+    width: 15%;
+    height: 40px;
+    background: deeppink;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.btn1{
+    background: black;
+    color: white;
+    border: 5px solid black;
+    border-radius: 50%;
+    font-weight: bold;
+}
+#btn2{
+    width: 15%;
+    height: 40px;
+    background: green;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.btn2{
+    background: black;
+    color: white;
+    border: 5px solid black;
+    border-radius: 50%;
+    font-weight: bold;
+    
+}
+#btn3{
+    width: 15%;
+    height: 40px;
+    background: red;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.btn3{
+    background: black;
+    color: white;
+    border: 5px solid black;
+    border-radius: 50%;
+    font-weight: bold;
+}
+.listbadge ul{
+    display: inline;
+    list-style: none;
+}
+.listbadge li{
+    margin-bottom: 13px;
+}
+.listbadge b{
+    padding-left: 10px;
+}
+#link1{
+    background: black;
+    color: white;
+    border: 5px solid black;
+    border-radius: 50%;
+    font-weight: bold;
+}
+#link2{
+    background: black;
+    color: white;
+    border: 5px solid black;
+    border-radius: 50%;
+    font-weight: bold;
+}
+#link3{
+    background: black;
+    color: white;
+    border: 5px solid black;
+    border-radius: 50%;
+    font-weight: bold;
+}
+#link4{
+    background: black;
+    color: white;
+    border: 5px solid black;
+    border-radius: 50%;
+    font-weight: bold;
+}
+.bdg-container{
+    width: 100%;
+    min-height:600px;
+}
+.comp-sec{
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)!important;
+    width: 1250px;
+}

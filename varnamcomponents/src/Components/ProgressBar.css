@@ -1,0 +1,72 @@
+/*----------------------prograss Bar-----------------------------*/
+.prg_bars{
+    width: 100%;
+    height: 337px;
+}
+.prog-sec{
+    height: 625px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)!important;
+    width: 1250px;
+
+}
+
+
+.outerborder{
+    width: 50%;
+    height: 15px;
+    border: 1px solid gray;
+    background: rgba(220, 220, 220, 0.3);
+}
+.innerbox{
+    width: 15%;
+    height: 15px;
+    background: green;
+}
+.outerborder2{
+    width: 50%;
+    height: 15px;
+    border: 1px solid gray;
+    background: rgba(220, 220, 220, 0.3);
+}
+.innerbox2{
+    width: 30%;
+    height: 15px;
+    background: green;
+}
+.outerborder3{
+    width: 50%;
+    height: 15px;
+    border: 1px solid gray;
+    background: rgba(220, 220, 220, 0.3);
+}
+.innerbox3{
+    width: 60%;
+    height: 15px;
+    background: green;
+}
+.outerborder4{
+    width: 50%;
+    height: 15px;
+    border: 1px solid gray;
+    background: rgba(220, 220, 220, 0.3);
+}
+.innerbox4{
+    width: 100%;
+    height: 15px;
+    background: green;
+}
+.outerborder5{
+    width: 50%;
+    height: 15px;
+    border: 1px solid gray;
+    background: rgba(220, 220, 220, 0.3);
+}
+#innerbox5{
+    width: 1%;
+    height: 15px;
+    background: green;
+    transition: width 2s;
+}
+#innerbox5:hover {
+    width: 100%;
+ }

@@ -1,0 +1,20 @@
+.slideShow{
+    position:relative;
+    width: 50%;
+    top: 121px;
+     left: 250px;
+    min-height: 500px;
+}
+.slide-btn{
+    position: absolute;
+    color: white;
+    background-color: black;
+    top: 162px;
+    cursor: pointer;
+}
+.left-btn{
+    left:0;
+}
+.right-btn{
+     right: 0;
+   }
